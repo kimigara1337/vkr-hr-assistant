@@ -17,7 +17,6 @@
 
 ## Состав проекта
 
-## Состав проекта
 
 ```text
 VKR_HR_Assistant_LOCAL_DEMO/
