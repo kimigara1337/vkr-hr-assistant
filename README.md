@@ -17,6 +17,9 @@
 
 ## Состав проекта
 
+## Состав проекта
+
+```text
 VKR_HR_Assistant_LOCAL_DEMO/
 ├── app/
 │   └── app.py
@@ -34,6 +37,7 @@ VKR_HR_Assistant_LOCAL_DEMO/
 ├── requirements.txt
 ├── setup_and_run.bat
 └── run_app.bat
+```
 
 ## Быстрый запуск на Windows через VS Code
 
